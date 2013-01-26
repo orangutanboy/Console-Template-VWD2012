@@ -10,3 +10,5 @@ Obstructions for use
 2. Create a folder, Windows.
 3. Copy ConsoleApplication.zip to the windows directory NB don't unzip it, it needs to be left as a zip.
 4. Open VWDExpress and create a new project - Console Application will appear as a choice under Visual C# and Windows
+
+Please let me know if this template is useful, I'm on twitter: @M_J_O_N_E_S
